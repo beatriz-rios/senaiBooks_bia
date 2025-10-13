@@ -1,6 +1,7 @@
 import Header from './componentes/Header';
 import './App.css';
 import styled from 'styled-components';
+import Pesquisa from './componentes/Pesquisa';
 
 const AppContainer = styled.div`
  
